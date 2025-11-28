@@ -1,4 +1,4 @@
-# LandingPage_Pujasera
+# Landing Page : Pujasera Keputih
 Anggota :
 Brilian Kurniawan Prasisto (5025241213)
 
